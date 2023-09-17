@@ -1,0 +1,193 @@
+C:\Users\mka\Desktop\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.exe
+C:\Users\mka\Desktop\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.deps.json
+C:\Users\mka\Desktop\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.runtimeconfig.json
+C:\Users\mka\Desktop\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.AssemblyReference.cache
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.cache
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.lref
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.g.resources
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfoInputs.cache
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfo.cs
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CoreCompileInputs.cache
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\refint\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.genruntimeconfig.cache
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\ref\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\mka\Desktop\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.exe
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.deps.json
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.runtimeconfig.json
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.AssemblyReference.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.lref
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.g.resources
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfoInputs.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfo.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CoreCompileInputs.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\refint\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.genruntimeconfig.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\ref\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CopyComplete
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.exe
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.deps.json
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.runtimeconfig.json
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.AssemblyReference.cache
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.cache
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.lref
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.g.resources
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfoInputs.cache
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfo.cs
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CoreCompileInputs.cache
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CopyComplete
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\refint\exam_ef.dll
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.genruntimeconfig.cache
+C:\Users\mka\Desktop\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\ref\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.exe
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.deps.json
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.runtimeconfig.json
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.AssemblyReference.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef_MarkupCompile.lref
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\Window2.baml
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.g.resources
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfoInputs.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.AssemblyInfo.cs
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CoreCompileInputs.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.csproj.CopyComplete
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\refint\exam_ef.dll
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.pdb
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\exam_ef.genruntimeconfig.cache
+C:\Users\kholod\OneDrive\Рабочий стол\exam_ef (1)\exam_ef\obj\Debug\net6.0-windows\ref\exam_ef.dll
